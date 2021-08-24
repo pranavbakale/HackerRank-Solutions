@@ -23,17 +23,19 @@ ebcd af
 using namespace std;
 
 int main() {
-    string a = "abcd";
-    string b = "ef";
+	// Complete the program
+    string a,b,c;
+    char p,q;
+    cin >> a >> b;
     int len1 = a.size();
     int len2 = b.size();
-    string c = a+b;
+    c = a+b;
     cout << len1 << " " << len2 << endl;
     cout << c << endl;
-    char c0 = a[0];
-    a[0] = 'e';
-    char d0 = b[0];
-    b[0] = 'a';
+    p = b[0];
+    q = a[0];
+    a[0] = p;
+    b[0] = q;
     cout << a << " " << b ;
     return 0;
 }
