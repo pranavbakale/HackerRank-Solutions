@@ -1,4 +1,4 @@
-<*
+/*
 Input Format
 Input will consist of four lines.
 The first line will contain an integer, representing the age. The second line will contain a string, consisting of lower-case Latin characters ('a'-'z'), representing the first_name of a student.
@@ -22,7 +22,7 @@ carmack, john
 10
 
 15,john,carmack,10
-*>
+*/
 
   
 #include <iostream>
