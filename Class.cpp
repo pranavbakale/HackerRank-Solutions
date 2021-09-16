@@ -1,7 +1,9 @@
 /*
+
 Input Format
 Input will consist of four lines.
-The first line will contain an integer, representing the age. The second line will contain a string, consisting of lower-case Latin characters ('a'-'z'), representing the first_name of a student.
+The first line will contain an integer, representing the age. The second line will contain a string, consisting of lower-case Latin characters ('a'-'z'), 
+representing the first_name of a student.
 The third line will contain another string, consisting of lower-case Latin characters ('a'-'z'), representing the last_name of a student.
 The fourth line will contain an integer, representing the standard of student.
 
@@ -22,6 +24,7 @@ carmack, john
 10
 
 15,john,carmack,10
+
 */
 
   
