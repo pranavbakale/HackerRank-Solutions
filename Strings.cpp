@@ -1,4 +1,5 @@
 /*
+
 input Format:
 You are given two strings a and b separated by a new line. Each string will consist of lower case Latin characters ('a'-'z').
 
@@ -15,6 +16,7 @@ Sample Output:
 4 2
 abcdef
 ebcd af 
+
 */
 
 
