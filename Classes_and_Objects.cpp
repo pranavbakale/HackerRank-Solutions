@@ -37,6 +37,7 @@ Sample Output
 
 Explanation
 Kristen's grades are on the first line of grades. Only 1 student scored higher than her.
+
 */
 
 
